@@ -1,4 +1,6 @@
-## Aetheria AI
+##                                Aetheria AI
+
+![WeJustNeedToTalkWithYouAgentConnellyGIF](https://github.com/user-attachments/assets/ad77f76a-507e-41a8-853c-57f694279a55)
 
 ## 💡 Project Overview
 
